@@ -1088,13 +1088,13 @@ tests = ["mypy (>=0.500,<2.000)", "pytest-mypy (>=0.10,<1.0)", "pytest-pycodesty
 
 [[package]]
 name = "pytest-httpserver"
-version = "1.1.0"
+version = "1.1.1"
 description = "pytest-httpserver is a httpserver for pytest"
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "pytest_httpserver-1.1.0-py3-none-any.whl", hash = "sha256:7ef88be8ed3354b6784daa3daa75a422370327c634053cefb124903fa8d73a41"},
-    {file = "pytest_httpserver-1.1.0.tar.gz", hash = "sha256:6b1cb0199e2ed551b1b94d43f096863bbf6ae5bcd7c75c2c06845e5ce2dc8701"},
+    {file = "pytest_httpserver-1.1.1-py3-none-any.whl", hash = "sha256:aadc744bfac773a2ea93d05c2ef51fa23c087e3cc5dace3ea9d45cdd4bfe1fe8"},
+    {file = "pytest_httpserver-1.1.1.tar.gz", hash = "sha256:e5c46c62c0aa65e5d4331228cb2cb7db846c36e429c3e74ca806f284806bf7c6"},
 ]
 
 [package.dependencies]
@@ -1557,4 +1557,4 @@ resolved_reference = "a50f0e2af9cc957fa43e7cbebaab5a79cf31a4b8"
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.10,<4.0"
-content-hash = "6275b311460845c20221b0bb9b69acb728f89d29081ab4e9a75d6af77951ae43"
+content-hash = "6ae6ba02b9c613660a3a25cad2c0ffc4be69018f12fdf396bdeb68db82ffd01b"
