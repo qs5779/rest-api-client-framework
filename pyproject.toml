@@ -37,7 +37,7 @@ optional = true
 mypy = "^1.11"
 wemake-python-styleguide = "^1.0.0"
 flake8-pytest-style = ">=1.6,<3.0"
-black = "^24.4.2"
+black = "^25.1.0"
 isort = "^5.13.2"
 pytest-cov = "^6.0.0"
 coverage-badge = "^1.1.1"
